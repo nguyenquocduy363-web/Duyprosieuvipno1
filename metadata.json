@@ -1,0 +1,7 @@
+{
+  "name": "AI Photo Editor Pro",
+  "description": "Trình chỉnh sửa ảnh chuyên nghiệp tích hợp AI Gemini: Layers, Generative Fill, Face Scan và nhiều bộ lọc.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
